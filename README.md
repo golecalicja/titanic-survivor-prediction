@@ -11,6 +11,22 @@ Project made in Jupyter Notebook with [Kaggle Titanic dataset](https://www.kaggl
 ## Data description
 ![image](https://user-images.githubusercontent.com/74184204/143546816-8559d263-ebb6-44ee-b22e-2cc73b31c46c.png)
 
+<b>pclass</b>: A proxy for socio-economic status (SES)\
+1st = Upper\
+2nd = Middle\
+3rd = Lower
+
+<b>age</b>: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+
+<b>sibsp</b>: The dataset defines family relations in this way...\
+Sibling = brother, sister, stepbrother, stepsister\
+Spouse = husband, wife (mistresses and fiancés were ignored)
+
+<b>parch</b>: The dataset defines family relations in this way...\
+Parent = mother, father\
+Child = daughter, son, stepdaughter, stepson\
+Some children travelled only with a nanny, therefore parch=0 for them.
+
 ## Methods used
 * Cleaning Data
 * Statistical Inference

@@ -12,10 +12,11 @@ Project made in Jupyter Notebook with [Kaggle Titanic dataset](https://www.kaggl
 ![image](https://user-images.githubusercontent.com/74184204/143546816-8559d263-ebb6-44ee-b22e-2cc73b31c46c.png)
 
 ## Methods used
+* Cleaning Data
 * Statistical Inference
 * Exploratory Data Analysis (EDA)
 * Data Visualization 
-* Supervised Learning Algorithms: Logistic Regression, Random Forest
+* Supervised Machine Learning Algorithms: Logistic Regression, Random Forest
 
 ## Technologies used
 * Python 3.8.8

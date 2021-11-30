@@ -32,7 +32,7 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 * Statistical Inference
 * Exploratory Data Analysis (EDA)
 * Data Visualization 
-* Supervised Machine Learning Algorithms: Logistic Regression, Random Forest
+* Supervised Machine Learning Algorithms: Logistic Regression, Random Forest, Naive Bayes, K-nearest Neighbors, SVC
 
 ## Technologies used
 * Python 3.8.8

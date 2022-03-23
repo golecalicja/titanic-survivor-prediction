@@ -1,6 +1,6 @@
 # Titanic Survivor Prediction
 ## Table of contents
-* [Introducton](#introduction)
+* [Introduction](#introduction)
 * [Data description](#data-description)
 * [Methods used](#methods-used)
 * [Technologies used](#technologies-used)

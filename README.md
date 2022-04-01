@@ -37,7 +37,6 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 ## Technologies used
 * Python 3.8.8
 * Pandas 1.2.4
-* Numpy 1.20.1
 * Matplotlib 3.3.4
 * Seaborn 0.11.1
 * Sklearn 0.24.1
